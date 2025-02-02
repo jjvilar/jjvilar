@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jjvilar
 - 👀 I’m interested in automation code
-- 🌱 I’m currently learning SOATest/Virtualization/AWS
 - 💞️ I’m looking to collaborate on java/selenium
+- - 💞️ I’m looking to collaborate on javascript/cypress
 - 📫 How to reach me in juliano.jose.vilar@gmail.com
 
 <!---
